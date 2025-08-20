@@ -1,6 +1,6 @@
 # Air Quality Monitoring Dashboard 🌍
 
-This simple project is an interactive web-based dashboard for monitoring and analyzing air quality data. It uses data from air quality sensors and allows users to visualize parameter trends, sensor locations, and distributions across time periods. The project is built with Python, Dash, and DuckDB, and it integrates dynamic filtering, aggregation, and visualization of air quality metrics.
+This project is an interactive web-based dashboard for monitoring and analyzing air quality data. It uses data from air quality sensors and allows users to visualize parameter trends, sensor locations, and distributions across time periods. The project is built with Python, Dash, and DuckDB, and it integrates dynamic filtering, aggregation, and visualization of air quality metrics.
 
 ---
 
